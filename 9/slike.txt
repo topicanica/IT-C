@@ -1,0 +1,7 @@
+'Edvard' 'Munch' 'Vrisak' 4000x1800 4500000
+'Paul' 'Cezanne' 'Igraci karata' 3000x1850 3700000
+'Jackson' 'Pollock' 'Broj 5, 1948' 4500x2100 5300000
+'Pablo' 'Picasso' 'Djecak s lulom' 2000x2000 6300000
+'Gustav' 'Klimt' 'Portret Adele Bloh-Bauer I' 8000x3200 9000000
+'Vincent' 'van Gogh' 'Portret dr. Gacheta' 3200x2500 7000000
+'Pablo' 'Picasso' 'Stari gitarist' 1230x830 3200000
